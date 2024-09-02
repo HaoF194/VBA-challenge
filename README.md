@@ -25,9 +25,8 @@ The script generates a new worksheet with the following columns:
 ## Usage
 
 To use this script:
-1. Ensure your raw stock data is in a sheet named "Q1".
-2. Run the `CalculateQuarterlResults` macro.
-3. Review the results in the newly created "Quarter 1 Results" sheet.
+1. Run the `CalculateQuarterlResults` macro.
+2. Review results in the created "Quarter Results" sheets.
 
 ## Notes
 
